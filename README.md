@@ -1,4 +1,4 @@
-# WeatherCast
+# Weatherology
 > It's a openweathermap API based app.
 ---
 > Technologies used:-
